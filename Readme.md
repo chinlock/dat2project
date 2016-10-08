@@ -13,4 +13,4 @@ git add -A .
 git commit -m "<message here>"
 git push origin master
 
-
+##### Created a shortcut called 'push'
