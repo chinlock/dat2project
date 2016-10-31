@@ -3,9 +3,32 @@ Course Project for GA DAT2
 
 ## What should I do?
 
-blah, blah, **blah**, _blah_
+I am thinking of analysing the National Jobs Database of ICT jobs
+to answer the following questions:
 
-Possible datasets [here](www.kaggle.com)
+1.  What are the demand areas for ICT jobs in Singapore?
+2.  Can we classify them based on SKILLS required?
+3.  Can we classify them based on LOCATION?
+4.  Can we classify them based on PAY?
+5.  Can we classify them based on TYPES OF COMPANIES HIRING?
+6.  Given a job and skills profile, can we predict the PAY?
+
+Other miscellaneous questions which may not be readily answerable:
+1.  Why are people not applying?
+2.  Is there a skills mismatch?
+
+Approach
+1.  Bag of Words with tf/idf
+
+Method
+1.  Crawl
+2.  Format into Big Table
+3.  Perform tf/idf computation
+4.  Build model
+
+Possible datasets
+1. [jobs bank](www.jobsbank.gov.sg)
+2. [indeed.com.sg](www.indeed.com.sg)
 
 ### Reminders for myself
 ##### To commit changes to github:-
