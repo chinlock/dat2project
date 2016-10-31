@@ -7,10 +7,10 @@ I am thinking of analysing the National Jobs Database of ICT jobs
 to answer the following questions:
 
 1.  What are the demand areas for ICT jobs in Singapore?
-2.  Can we classify them based on SKILLS required?
-3.  Can we classify them based on LOCATION?
-4.  Can we classify them based on PAY?
-5.  Can we classify them based on TYPES OF COMPANIES HIRING?
+2.  Can we cluster them based on SKILLS required?
+3.  Can we cluster them based on LOCATION?
+4.  Can we cluster them based on PAY?
+5.  Can we cluster them based on TYPES OF COMPANIES HIRING?
 6.  Given a job and skills profile, can we predict the PAY?
 
 Other miscellaneous questions which may not be readily answerable:
