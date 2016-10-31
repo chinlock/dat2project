@@ -31,8 +31,8 @@ Other miscellaneous questions which may not be readily answerable:
 
 ## Possible datasets
 
-1. [jobs bank](www.jobsbank.gov.sg)
-2. [indeed.com.sg](www.indeed.com.sg)
+1. [jobs bank](http://www.jobsbank.gov.sg)
+2. [indeed.com.sg](http://www.indeed.com.sg)
 
 ### Reminders for myself
 ##### To commit changes to github:-
