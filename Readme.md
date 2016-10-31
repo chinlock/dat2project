@@ -14,19 +14,23 @@ to answer the following questions:
 6.  Given a job and skills profile, can we predict the PAY?
 
 Other miscellaneous questions which may not be readily answerable:
+
 1.  Why are people not applying?
 2.  Is there a skills mismatch?
 
-Approach
+## Approach
+
 1.  Bag of Words with tf/idf
 
-Method
+## Method
+
 1.  Crawl
 2.  Format into Big Table
 3.  Perform tf/idf computation
 4.  Build model
 
-Possible datasets
+## Possible datasets
+
 1. [jobs bank](www.jobsbank.gov.sg)
 2. [indeed.com.sg](www.indeed.com.sg)
 
