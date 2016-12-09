@@ -34,9 +34,9 @@ Other miscellaneous questions which may not be readily answerable:
 1. [jobs bank](http://www.jobsbank.gov.sg)
 2. [indeed.com.sg](http://www.indeed.com.sg)
 
-------------
+##------------
 
-Update 1:  Dec 2016
+##Update 1:  Dec 2016
 
 Files:
 
@@ -44,7 +44,7 @@ Files:
 
 
 
-------------
+##------------
 
 ### Reminders for myself
 ##### To commit changes to github:-
